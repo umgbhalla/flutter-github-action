@@ -54,7 +54,7 @@
 #       - run: flutter build apk --split-per-abi
 #       - run: flutter build appbundle
 
-
+name: temp-ci
 
 on: 
   push: 
